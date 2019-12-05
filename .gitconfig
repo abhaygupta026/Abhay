@@ -1,0 +1,5 @@
+[user]
+	name = Jerry
+	email = sedulousabhay@gmail.com
+[branch]
+	autosetuprebase = always
