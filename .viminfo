@@ -21,16 +21,28 @@
 # Registers:
 
 # File marks:
-'0  3  9  ~/cam.gcc
+'0  1  1  ~/gits/camm.cpp
+'1  1  0  ~/cam.gcc
+'2  3  9  ~/cam.gcc
 
 # Jumplist (newest first):
+-'  1  1  ~/gits/camm.cpp
+-'  1  0  ~/cam.gcc
 -'  3  9  ~/cam.gcc
 -'  1  0  ~/cam.gcc
+-'  3  9  ~/cam.gcc
 
 # History of marks within files (newest to oldest):
 
+> ~/gits/camm.cpp
+	"	1	1
+	^	1	2
+	.	1	1
+	+	8	0
+	+	1	1
+
 > ~/cam.gcc
-	"	3	9
+	"	1	0
 	^	3	10
 	.	6	9
 	+	1	18
